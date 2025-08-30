@@ -176,4 +176,7 @@ pyrightconfig.json
 # Env files
 .env
 
+# General Folders
+/node_modules
+
 # End of https://www.toptal.com/developers/gitignore/api/python
